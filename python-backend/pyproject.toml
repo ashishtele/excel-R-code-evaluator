@@ -13,3 +13,10 @@ dependencies = [
     "python-jose[cryptography]==3.3.0",
     "passlib[bcrypt]==1.7.4",
 ]
+
+[tool.hatch.build.targets.wheel]
+include = [
+  "main.py",
+  "database.py", 
+  "models.py",
+]
