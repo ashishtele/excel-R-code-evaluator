@@ -20,6 +20,14 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Screenshots
+
+![Excel-R Evaluator Homepage](https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/1446377c-a47b-4d93-8932-55f0901f8a15/generated_images/a-modern-web-application-interface-scree-064dfc28-20250920220337.jpg?)
+
+![Left Pane - Excel Sheet Viewer](https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/1446377c-a47b-4d93-8932-55f0901f8a15/generated_images/close-up-screenshot-of-the-left-pane-in--9413f277-20250920220348.jpg?)
+
+![Right Pane - R Code Editor](https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/project-uploads/1446377c-a47b-4d93-8932-55f0901f8a15/generated_images/close-up-screenshot-of-the-right-pane-co-2674ae9e-20250920220356.jpg?)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
